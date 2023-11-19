@@ -1,4 +1,4 @@
-There is a stored cross-site scripting attack in "Friendly Links" (column administrator rights)
+# There is a stored cross-site scripting attack in "Friendly Links" (column administrator rights)
 
 ![image-20231119212003542](./img/image1.png)
 
